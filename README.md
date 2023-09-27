@@ -26,6 +26,6 @@
     justify-content: space-between;">
 
   <div>
-    <p align="left"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=githubzey&show_icons=true&theme=radical" alt="Github stats" /> </p>
+    <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=githubzey&show_icons=true&theme=radical" alt="Github stats" /> </p>
   </div>
 </div>
