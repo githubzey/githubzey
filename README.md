@@ -5,8 +5,10 @@
 ---
 ### Profil
 - Motivated
-- Autonomous and well organized
-- Open minded.  
+- Autonomous
+- Perseverant
+- Curious
+- Teamwork  
 ---
 
 ### Skills
