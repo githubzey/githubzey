@@ -21,7 +21,8 @@
 - Text Classification
 - Model deployement, Web application
 
-**Tools** : Pandas, Numpy, Tensorflow, Keras, NLTK, OpenCV, Knime, Tableau, Sql, Github, FastApi, Heroku, Mlflow, Streamlit 
+**Tools** : Python, Pandas, Numpy, Tensorflow, Keras, NLTK, OpenCV, Knime, Tableau, SQL, PostgreSQL, Github, FastApi, Heroku, Mlflow, Streamlit, Docker, PySpark,
+Amazon Web Service, Excel
 
 ---
  <div style="display: flex;
