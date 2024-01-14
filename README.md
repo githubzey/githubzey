@@ -1,7 +1,7 @@
                                                                                                                                                                                               
 <h1 align="center">Hi, I'm Zeynep </h1>
 
-### I am a Data Scientist Student at OpenClassrooms. I like learning all about data.
+### I am a Data Scientist. I enjoy learning and sharing my experiences, all related to data.
 ---
 ### Profil
 - Motivated
